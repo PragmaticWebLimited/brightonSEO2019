@@ -1,4 +1,4 @@
-# brightonSEO2019
+# brightonSEO
 Simple plugin to add SiteSearch code to site, provide breadcrumbs code and add code snippet for creating 'out of stock' template
 
 You can activate this plugin in the normal way
